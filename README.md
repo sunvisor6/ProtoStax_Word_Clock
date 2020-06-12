@@ -3,6 +3,9 @@ Demo for ProtoStax Word Clock with ePaper Display and Raspberry Pi
 
 ![ProtoStax Word Clock](ProtoStax_Word_Clock_Demo.jpg)
 
+![ProtoStax Word Clock](ProtoStax_Word_Clock_Demo.gif)
+
+
 using [ProtoStax for Raspberry Pi B+](https://www.protostax.com/products/protostax-for-raspberry-pi-b)
 
 ## Prerequisites
