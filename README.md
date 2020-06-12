@@ -56,7 +56,7 @@ display. The word clock has a granularity of 5 minutes or more
 program goes to sleep for 5 minutes, wakes up and updates the clock
 again. Any shorter duration is unnecessary.
 
-###TEST-MODE###
+### TEST-MODE
 
 To run in "test-mode" (test with any given hour, minute and second)
 ```
