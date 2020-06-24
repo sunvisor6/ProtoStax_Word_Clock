@@ -148,7 +148,7 @@ class Clock(object):
         elif hour == 6 or hour == 18:
             self.six = Clock.State.HIGHLIGHT
         elif hour == 7 or hour == 19:
-            clock.seven = Clock.State.HIGHLIGHT
+            self.seven = Clock.State.HIGHLIGHT
         elif hour == 8 or hour == 20:
             self.eight = Clock.State.HIGHLIGHT
         elif hour == 9 or hour == 21:
